@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Cuarto_F2","order":2,"parentId":3,"scrollX":534,"scrollY":305},
+{"id":2,"expanded":false,"name":"Final","order":3,"parentId":3,"scrollX":582.5454545454546,"scrollY":332.72727272727275},
+{"id":3,"expanded":true,"name":"Inicio","order":1,"parentId":0,"scrollX":582.6666666666666,"scrollY":332.6666666666667},
+{"id":4,"expanded":true,"name":"F3","order":4,"parentId":0,"scrollX":1328.7272727272727,"scrollY":324},
+{"id":5,"expanded":true,"name":"F4","order":7,"parentId":0,"scrollX":1040.7272727272727,"scrollY":332.72727272727275},
+{"id":6,"expanded":false,"name":"Cuarto_F3_1","order":5,"parentId":4,"scrollX":591.2727272727273,"scrollY":324},
+{"id":7,"expanded":false,"name":"Cuarto_F3_2","order":6,"parentId":4,"scrollX":591.2727272727273,"scrollY":324},
+null,
+{"id":9,"expanded":true,"name":"Cuarto_F4_1","order":9,"parentId":5,"scrollX":591.2727272727273,"scrollY":324},
+{"id":10,"expanded":false,"name":"Cuarto_F4_2","order":8,"parentId":5,"scrollX":591.2727272727273,"scrollY":324}
+]
